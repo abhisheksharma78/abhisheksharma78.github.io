@@ -1,0 +1,39 @@
+<div class="counts container">
+
+      <div class="row">
+
+        <div class="col-lg-3 col-md-6">
+          <div class="count-box">
+            <i class="icofont-badge"></i>
+            <span data-toggle="counter-up">2</span>
+            <p>Internships</p>
+          </div>
+        </div>
+
+        <div class="col-lg-3 col-md-6 mt-5 mt-md-0">
+          <div class="count-box">
+            <i class="icofont-license"></i>
+            <span data-toggle="counter-up">7</span>
+            <p>Certifications</p>
+          </div>
+        </div>
+
+        <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
+          <div class="count-box">
+            <i class="icofont-institution"></i>
+            <span data-toggle="counter-up">6</span>
+            <p>Organization</p>
+          </div>
+        </div>
+
+        <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
+          <div class="count-box">
+            <i class="icofont-code"></i>
+            <span data-toggle="counter-up">3</span>
+            <p>Projects</p>
+          </div>
+        </div>
+
+      </div>
+
+    </div><!-- End Counts -->
